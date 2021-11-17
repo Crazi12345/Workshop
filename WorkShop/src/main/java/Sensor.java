@@ -1,3 +1,5 @@
+package WorkShop.src.main.java;
+
 import java.util.UUID;
 
 public abstract class Sensor {

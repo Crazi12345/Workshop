@@ -1,3 +1,5 @@
+package WorkShop.src.main.java;
+
 import java.util.ArrayList;
 import java.util.UUID;
 
@@ -8,7 +10,7 @@ public class Room {
 
   private  ArrayList<Actuator> actuators = new ArrayList<Actuator>();
 
-    public Room(UUID id){
+    public Room(int id){
     this.id = id;
 
     }
